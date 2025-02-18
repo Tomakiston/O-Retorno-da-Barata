@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+#game-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid white;
+    background-color: #222;
+    border-radius: 10px;
+}
+img {
+    width: 100%;
+    border-radius: 10px;
+}
+.choice {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+    width: 80%;
+    font-size: 18px;
+    cursor: pointer;
+    background-color: brown;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
